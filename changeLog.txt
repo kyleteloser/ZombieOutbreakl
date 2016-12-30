@@ -1,0 +1,22 @@
+# December 27:
+    Moving over to the grid paradigm for large-scale structure of the UX
+    Bar Color is now supported from the resources CSV
+    Added a rover window and an editable number of rovers
+    Rovers now effect power consumption - first interactive sim!
+    Moved LogWindow into a seperate class & file
+    Moved MapWindow into a seperate class & file
+    Moved RoverWindow into a seperate class & file
+# December 26:
+    Added Kyle and Max to the GitHub repro
+    created a Tech Tree Labs Slack Team and added Kyle and Max
+    cleaned up all of the warnings across all the files, except disagreed with not approving camelCase
+    added the map view
+# December 25:
+    implemented the resource bar class
+        used a window canvas to limit the size of the progress bars width
+    loaded resources from a CSV file
+    linked the sim loop to dynamically updating the resource bars
+# December 18?, 2016
+    implemented the log window class, first scrolling day by day use of the simulation
+
+

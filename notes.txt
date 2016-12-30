@@ -1,0 +1,11 @@
+
+# can use changing styles? To change color bars when they are low, medium & high?
+
+# create a map, put symbol for the base, and put a symbol for the rovers
+
+# Move Logwindow to a seperate class, and then follow with the other UX
+
+# get initial conditions from a JASON file? csv vs json?
+
+
+
